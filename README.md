@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muni112
-- 👀 I’m interested in Shopify Theme Develpment And Web Develpment
+- 👀 I’m Full Stack develper And also interested in Shopify Theme Develpment And Web Develpment
 - 🌱 I’m currently learning Remix
 - 💞️ I’m looking to collaborate on Shopify App
 - 📫 How to reach me Muneebamjad142@gmail.com
